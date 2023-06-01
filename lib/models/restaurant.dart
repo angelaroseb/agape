@@ -37,10 +37,10 @@ class Restaurants with ChangeNotifier {
       menu: [
         Menu(
             id: "a1",
-            title:"Shake",
+            title:"Shake            ",
             price: 50,
             img:
-                "https://www.freepik.com/free-photo/two-milk-shakes-table_7802235.htm#query=Shake&position=8&from_view=search&track=sph",
+                "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png",
             description: "Sweet Jollof from the place"),
       ],
     ),
@@ -71,15 +71,15 @@ class Restaurants with ChangeNotifier {
       menu: [
         Menu(
             id: "a3",
-            title: "Porotta",
-            price: 50,
+            title: "Porotta             ",
+            price: 10,
             img:
                 "https://theplace.com.ng/wp-content/uploads/2021/06/Intercon.jpg",
             description: "Sweet Jollof from the place"),
             Menu(
             id: "a3",
-            title: "Porotta",
-            price: 50,
+            title: "Appam               ",
+            price: 10,
             img:
                 "https://theplace.com.ng/wp-content/uploads/2021/06/Intercon.jpg",
             description: "Sweet Jollof from the place"),
