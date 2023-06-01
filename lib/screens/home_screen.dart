@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
             const SpaceWidget(),
            // RowTextBtn(text: "Popular Restaurants", onPressed: () {}),
             const SpaceWidget(),
-           // RestaurantGrid(restaurants: restaurants),
+            RestaurantGrid(restaurants: restaurants),
             const SpaceWidget(),
             RowTextBtn(text: " Menus", onPressed: () {}),
             const SpaceWidget(),
